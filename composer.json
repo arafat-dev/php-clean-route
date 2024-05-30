@@ -1,0 +1,17 @@
+{
+    "name": "arafat/my-test-php-project",
+    "description": "test project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arafat\\MyTestPhpProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arafat69",
+            "email": "arafataliar69@gmail.com"
+        }
+    ],
+    "require": {}
+}
